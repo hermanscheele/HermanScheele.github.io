@@ -12,8 +12,8 @@ main:
   - title: "Personal Projects"
     url: /files/personal_projects_english.pdf
 
-  - title: "Coursework"
-    url: /publications/
+  # - title: "Coursework"
+  #   url: /publications/
 
   # - title: "Publications"
   #   url: /publications/

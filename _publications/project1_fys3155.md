@@ -2,7 +2,8 @@
 title: "Multidimensional Linear Regression with OLS, Ridge & Lasso"
 collection: publications
 category: manuscripts
-permalink: /files/fysstk3115project1.pdf
+permalink: /files/project1.pdf
+
 excerpt: 'This paper was a project in the course FYS-STK 4115 Applied Data Analysis and Machine Learning. I collaborated with two other students to make a scientific paper about how different Linear Regression techniques can fit multidimensional data using Python.'
 date: 2024-10-04
 # venue: 'Journal 1'
